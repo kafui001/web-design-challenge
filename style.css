@@ -1,0 +1,16 @@
+/* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+.navbar-brand {
+  display: inline-block;
+  padding: 7px;
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: rgb(236, 236, 236);
+  border-radius: 3px;
+  font-size: 20px;
+  font-style: italic;
+  font-family: Impact, sans-serif;
+}
+
+h1, h3, h4 {
+  color: #1cadb8;
+}
